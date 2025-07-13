@@ -10,7 +10,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Change version code' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'MaterialYou'"
 patcher-args = "--legacy-options=options.json"
-build-mode = "both"
+build-mode = "module"
 
 [Music]
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
@@ -20,7 +20,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "'Change version code' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Disable music video in album'"
 patcher-args = "--legacy-options=options.json"
-build-mode = "both"
+build-mode = "module"
 arch = "both"
 
 [Reddit]
